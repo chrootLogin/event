@@ -2,7 +2,7 @@ package event
 
 import "sync"
 
-type Events struct {
+type EventTable struct {
 	events map[string][]func(...interface{})
 }
 
