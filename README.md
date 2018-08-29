@@ -1,4 +1,6 @@
 # Event Handler for GoLang
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchrootlogin%2Fevent.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchrootlogin%2Fevent?ref=badge_shield)
+
 
 This can be used to create an event system in your go application
 
@@ -26,3 +28,6 @@ event.Events().Emit("init-router", router)
 ## License
 
 This stuff is licensed under LGPL 3.0.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchrootlogin%2Fevent.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchrootlogin%2Fevent?ref=badge_large)
